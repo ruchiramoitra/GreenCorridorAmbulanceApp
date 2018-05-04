@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578778665879",
+    "firebase_url": "https://redcross1-8f961.firebaseio.com",
+    "project_id": "redcross1-8f961",
+    "storage_bucket": "redcross1-8f961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578778665879:android:063018f41eee3af0",
+        "android_client_info": {
+          "package_name": "com.example.android.redcross1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578778665879-5k26h2ustahh03j7vnpqteko2llnt2ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.redcross1",
+            "certificate_hash": "DBB9C5FCE7A323D386A487C836E7DD4179A8ADD4"
+          }
+        },
+        {
+          "client_id": "578778665879-g4b29hg56r2sn4qfoj7jco6o6fl5culu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIwOjjJ5e91Aov_GalqnW2CqtRsoJfXA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578778665879-g4b29hg56r2sn4qfoj7jco6o6fl5culu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

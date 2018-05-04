@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/emergency1"
+        android:icon="@drawable/common_google_signin_btn_icon_light_pressed"
+        android:title="Emergency1"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/emergency2"
+        android:icon="@drawable/common_google_signin_btn_icon_light"
+        android:title="Emergency2" />
+    <item android:id="@+id/emergency3"
+        android:icon="@drawable/common_google_signin_btn_icon_light"
+        android:title="Emergency3" />
+    <item android:id="@+id/emergency4"
+        android:icon="@drawable/common_google_signin_btn_icon_light"
+        android:title="Emergency4" />
+</menu>
+
