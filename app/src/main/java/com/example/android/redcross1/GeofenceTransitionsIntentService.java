@@ -27,13 +27,13 @@ import java.util.List;
 import static com.google.android.gms.internal.zzs.TAG;
 
 /**
- * Created by ujan on 13/12/16.
+ * Created by Ruchira on 13/04/18.
  */
 
 public class GeofenceTransitionsIntentService extends IntentService {
 
     static String notification;
-    String ujan="Ujan";
+    String ruchira="Ruchira";
 
     public GeofenceTransitionsIntentService() {
         super(TAG);
@@ -102,7 +102,7 @@ public class GeofenceTransitionsIntentService extends IntentService {
     private void sendNotification(String notificationDetails){
 
        // send("1", "lat", "long");
-        Log.e(ujan, "geofence");
+        Log.e(ruchira, "geofence");
         Intent notificationIntent = new Intent(getApplicationContext(), MapsActivity.class);
         TaskStackBuilder stackBuilder = TaskStackBuilder.create(this);
         stackBuilder.addNextIntent(notificationIntent);
