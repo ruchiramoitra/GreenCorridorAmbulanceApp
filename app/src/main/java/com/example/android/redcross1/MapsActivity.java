@@ -98,7 +98,7 @@ public class MapsActivity extends AppCompatActivity
      * Flag indicating whether a requested permission has been denied after returning in
      * {@link #onRequestPermissionsResult(int, String[], int[])}.
      */
-    public final String TAG = "hello Ujan";
+    public final String TAG = "hello";
     private boolean mPermissionDenied = false;
     GoogleApiClient mGoogleApiClient;
 
