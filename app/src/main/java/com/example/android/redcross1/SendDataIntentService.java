@@ -32,7 +32,7 @@ import static android.content.ContentValues.TAG;
 import static android.Manifest.permission.SEND_SMS;
 
 /**
- * Created by Ruchira on 14/04/18.
+ * Created by SAYONI on 14/04/18.
  */
 
 public class SendDataIntentService extends IntentService {
