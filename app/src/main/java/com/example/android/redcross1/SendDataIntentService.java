@@ -32,18 +32,18 @@ import static android.content.ContentValues.TAG;
 import static android.Manifest.permission.SEND_SMS;
 
 /**
- * Created by ujan on 14/12/16.
+ * Created by Ruchira on 14/04/18.
  */
 
 public class SendDataIntentService extends IntentService {
 
 
 
-    String TAG1="ujan";
+    String TAG1="R";
 
     LatLng source;
 
-    String place="ujan";
+    String place="R";
 
     public SendDataIntentService() {
         super(TAG);
