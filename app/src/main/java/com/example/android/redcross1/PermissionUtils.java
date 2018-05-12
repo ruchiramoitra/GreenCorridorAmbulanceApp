@@ -1,7 +1,7 @@
 package com.example.android.redcross1;
 
 /**
- * Created by user on 12-12-2016.
+ * Created by Ruchira on 12-04-2018.
  */
 import android.Manifest;
 import android.app.AlertDialog;
